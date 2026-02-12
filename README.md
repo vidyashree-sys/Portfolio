@@ -3,7 +3,7 @@
 This is my personal developer portfolio built using React.
 It showcases my full-stack projects, technical skills, and deployment experience.
 
-🔗 Live Portfolio: vidyashree-b-portfolio.netlify.app
+🔗 Live Portfolio: [vidyashree-b-portfolio.netlify.app](https://vidyashree-b-portfolio.netlify.app/)
 
 🔗 GitHub: https:[//github.com/your-username](https://github.com/vidyashree-sys/Portfolio.git) 
 
