@@ -3,9 +3,9 @@
 This is my personal developer portfolio built using React.
 It showcases my full-stack projects, technical skills, and deployment experience.
 
-🔗 Live Portfolio:vidyashree-b-portfolio.netlify.app
+🔗 Live Portfolio: vidyashree-b-portfolio.netlify.app
 
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https:[//github.com/your-username](https://github.com/vidyashree-sys/Portfolio.git) 
 
 ----
 
@@ -13,15 +13,15 @@ It showcases my full-stack projects, technical skills, and deployment experience
 
 This portfolio highlights:
 
-My Full-Stack Projects
+- My Full-Stack Projects
 
-Technical Skills
+- Technical Skills
 
-Deployment Experience
+- Deployment Experience
 
-Contact Information
+- Contact Information
 
-GitHub & LinkedIn Links
+- GitHub & LinkedIn Links
 
 It is fully responsive and deployed using Netlify with GitHub integration.
 
@@ -29,20 +29,14 @@ It is fully responsive and deployed using Netlify with GitHub integration.
 🛠️ Tech Stack
 
 Frontend
-
-React.js
-
-JavaScript (ES6+)
-
-HTML5
-
-CSS3
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
 Deployment
-
-Netlify
-
-GitHub (CI/CD integration)
+- Netlify
+- GitHub (CI/CD integration)
 
 ---
 
@@ -51,9 +45,13 @@ GitHub (CI/CD integration)
 Clone the repository:
 
 git clone https://github.com/your-username/portfolio.git
+
 cd portfolio
+
 npm install
+
 npm run dev
+
 
 
 For production build:
@@ -63,12 +61,9 @@ npm run build
 ---
 
 This portfolio is deployed using:
-
-Netlify (Frontend Hosting)
-
-GitHub (Version Control & Auto Deploy)
-
-Every push to the main branch automatically triggers deployment.
+- Netlify (Frontend Hosting)
+- GitHub (Version Control & Auto Deploy)
+- Every push to the main branch automatically triggers deployment.
 
 ---
 
