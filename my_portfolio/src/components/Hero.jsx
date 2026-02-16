@@ -44,6 +44,10 @@ export default function Hero() {
           <a href="#contact" className="hero-btn">
             Let’s Connect
           </a>
+           &nbsp; &nbsp;  
+          <a href="https://drive.google.com/file/d/1JYD1tyG8E_7Y58bg7YokLm46M9EZX8Dn/view?usp=drivesdk" className="hero-btn">
+            Download Resume
+          </a>
         </div>
 
         <div className="hero-image">
