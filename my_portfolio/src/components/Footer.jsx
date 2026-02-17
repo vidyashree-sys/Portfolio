@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-container">
-        <p>© 2026 Your Name. All rights reserved.</p>
+        <p>© 2026. All rights reserved.</p>
 
         <div className="footer-socials">
           <a href="https://github.com/vidyashree-sys" target="_blank" rel="noreferrer">
