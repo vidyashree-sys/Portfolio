@@ -45,7 +45,7 @@ export default function Hero() {
             Let’s Connect
           </a>
            &nbsp; &nbsp;  
-          <a href="https://drive.google.com/file/d/1JYD1tyG8E_7Y58bg7YokLm46M9EZX8Dn/view?usp=drivesdk" className="hero-btn">
+          <a href="https://drive.google.com/file/d/1aHnjxDapa_knkfVbtkAmhLc8sK1DUe7P/view?usp=drivesdk" className="hero-btn">
             Download Resume
           </a>
         </div>
