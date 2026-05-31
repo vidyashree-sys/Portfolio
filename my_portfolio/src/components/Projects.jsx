@@ -1,15 +1,24 @@
 export default function Projects() {
   const projects = [
     {
-      name: "Event Scheduler Web App",
-      description: "A platform to schedule, manage, and register for events easily.",
-      link: "https://github.com/vidyashree-sys/event-management-platform"
-    },
-    {
       name: "Make My Stay",
       description: "A web application for planning and booking stays with ease.",
       link: " https://make-my-stay.onrender.com"
     },
+
+    {
+      name: "VitalDrop",
+      description: "AI-powered blood supply management platform for faster emergency response.",
+      link: " https://vitaldrop-83nr.onrender.com"
+    },
+
+    {
+      name: "Event Scheduler Web App",
+      description: "A platform to schedule, manage, and register for events easily.",
+      link: "https://github.com/vidyashree-sys/event-management-platform"
+    },
+
+    
   ];
 
   return (
